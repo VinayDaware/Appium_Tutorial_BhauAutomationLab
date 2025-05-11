@@ -16,19 +16,24 @@
 		<dependency>
 			<groupId>io.appium</groupId>
 			<artifactId>java-client</artifactId>
-			<version>9.2.1</version>
+			<version>9.4.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-remote-driver</artifactId>
-			<version>4.19.0</version>
+			<version>4.29.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
-			<version>2.0.12</version>
+			<version>2.0.17</version>
 		</dependency>
 
 
+		<dependency>
+			<groupId>com.edureka</groupId>
+			<artifactId>Edureka_Selenium_Assignment</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 </project>
